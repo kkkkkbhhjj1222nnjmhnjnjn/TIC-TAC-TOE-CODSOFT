@@ -1,7 +1,7 @@
 # TIC-TAC-TOE-CODSOFT
  Pygame Setup: Initializes Pygame, creates the game window, and sets up the graphical interface.
 
-#Description Of Tic-Tac-Toe
+Description Of Tic-Tac-Toe :
  
 Certainly, here's a simplified point-by-point breakdown:
 
