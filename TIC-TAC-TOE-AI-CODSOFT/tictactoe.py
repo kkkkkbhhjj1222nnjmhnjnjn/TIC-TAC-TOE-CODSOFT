@@ -1,3 +1,4 @@
+#TIC-TAC-TOE-CODSOFT INTERNSHIP BY JIT SARKAR 
 import copy
 import sys
 import pygame
@@ -301,3 +302,4 @@ def main():
         pygame.display.update()
 
 main()
+#TIC-TAC-TOE-CODSOFT INTERNSHIP BY JIT SARKAR
